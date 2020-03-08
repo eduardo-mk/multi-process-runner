@@ -1,6 +1,6 @@
 {
   "name": "multi-process-runner",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "MPR reads and execute js files in separate child processes.",
   "main": "index.js",
   "scripts": {
