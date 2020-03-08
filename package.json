@@ -1,0 +1,26 @@
+{
+  "name": "@eduardo-mk/multi-process-runner",
+  "version": "1.0.1",
+  "description": "CLI to run javascript files in multiple process",
+  "main": "src/index.js",
+  "bin": {
+    "multi-process-runner": "bin/rmp",
+    "@eduardo-mk/multi-process-runner": "bin/rmp"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "node bin/rmp"
+  },
+  "keywords": [
+    "cli",
+    "run multiple process"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.23",
+    "mermaid": "^8.4.8"
+  }
+}

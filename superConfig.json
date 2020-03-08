@@ -1,0 +1,24 @@
+{
+    "browsers": {
+        "safari": {
+            "sizes": "S-M-L",
+            "env-base-urls": ["www.apple.com"]
+        },
+        "chrome": {
+            "sizes": "S-M-L",
+            "env-base-urls": ["www.apple.com"]
+        },
+        "firefox": {
+            "sizes": "S-M-L",
+            "env-base-urls": ["www.apple.com"]
+        },
+        "opera": {
+            "sizes": "S",
+            "env-base-urls": ["www.apple.com"]
+        },
+        "edge": {
+            "sizes": "S-M-L",
+            "env-base-urls": ["www.apple.com"]
+        }
+    }
+}
